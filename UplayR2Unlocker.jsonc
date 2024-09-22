@@ -1,0 +1,295 @@
+{
+	"logging": false,
+	"lang": "default",
+	"auto_fetch": false,
+	"dlcs": [
+		// Anno 1800 ULC - Imperial Pack - PreOrder Bonus
+		4557,
+		// Anno 1800 Company Logos
+		12104,
+		// Anno 1800 - Season Pass Player Assets
+		14074,
+		// LanguagePackEnglish
+		// 12165,
+		// LanguagePackFrench
+		// 12166,
+		// LanguagePackGerman
+		// 12168,
+		// LanguagePackSpanish
+		// 12169,
+		// LanguagePackPolish
+		// 12170,
+		// LanguagePackRussian
+		// 12171,
+		// LanguagePackChinese
+		// 12174,
+		// LanguagePackTaiwanese
+		// 12175,
+		// LanguagePackJapanese
+		// 12172,
+		// LanguagePackKorean
+		// 12173,
+		// LanguagePackItalian
+		// 12167,
+		// Anno 1800 - Season 2 Pass Reward
+		16624,
+		// Anno 1800 - Season 3 Pass Reward
+		17804,
+		//Anno 1800 - Season 4 Bonus Content
+		60685,
+		// Anno 1800 DLC - Sunken Treasure
+		14214,
+		// Anno 1800 DLC - Botanica
+		14215,
+		// Anno 1800 DLC - The Passage
+		14216,
+		// Anno 1800 DLC - Christmas
+		5560,
+		// Anno 1800 DLC - The Palace
+		16621,
+		// Anno 1800 DLC - Bright Harvest
+		16622,
+		// Anno 1800 DLC - Land of Lions
+		16623,
+		// Anno 1800 DLC - Amusement Park
+		17316,
+		// Anno 1800 DLC - City Lights
+		17627,
+		// Anno 1800 DLC - Tourism
+		17795,
+		// Anno 1800 DLC - Docklands
+		17794,
+		// Anno 1800 DLC - HighLife
+		17796,
+		// Anno 1800 DLC - Skin Pack 1 (CDLC04)
+		17797,
+		// Anno 1800 DLC - Pedestrian Zone (CDLC05)
+		17798,
+		// Anno 1800 DLC - CDLC06
+		17799,
+		// Anno 1800 DLC - Charity Tree
+		5800,
+		// Anno 1800 - Twitch Drop - Billboard - Annoholic
+		60682,
+		//Anno 1800 DLC - Seeds of Change
+		60440,
+		//Anno 1800 DLC - Empire of the Skies
+		60673,
+		//Anno 1800 DLC - New World Rising
+		60681,
+		//Anno 1800 DLC - CDLC08
+		60683,
+		//Anno 1800 DLC - CDLC09
+		60684,
+		//Anno 1800 DLC - Sesional Decorations (CDLC07)
+		5440,
+		// Anno 1800 - Twitch Drop - Billboard - Anno Union
+		5441,
+		// Anno 1800 - Twitch Drop - Billboard - Anarchy
+		5442,
+		// Anno 1800 - Twitch Drop - Billboard - Sunken Treasures
+		5443,
+		// Anno 1800 - Twitch Drop - Billboard - Botanical Garden
+		5444,
+		// Anno 1800 - Twitch Drop - Billboard - The Passage
+		5445,
+		// Anno 1800 - Twitch Drop - Flag Banner - Annoholic
+		5446,
+		// Anno 1800 - Twitch Drop - Flag Banner - Anno Union
+		5447,
+		// Anno 1800 - Twitch Drop - Morris Column - Annoholic
+		5448,
+		// Anno 1800 - Twitch Drop - Seat of Power - Flag
+		16625,
+		// Anno 1800 - Twitch Drop - Seat of Power - Billboard
+		16626,
+		// Anno 1800 - Twitch Drop - Bright Harvest - Flag
+		16627,
+		// Anno 1800 - Twitch Drop - Bright Harvest - Billboard
+		16628,
+		// Anno 1800 - Twitch Drop - Land of Lions - Flag
+		16629,
+		// Anno 1800 - Twitch Drop - Land of Lions - Billboard
+		16630,
+		// Anno 1800 - Twitch Drop - DockLands 1
+		17806,
+		// Anno 1800 - Twitch Drop - DockLands 2
+		17807,
+		// Anno 1800 - Twitch Drop - Touism 1
+		17808,
+		// Anno 1800 - Twitch Drop - Tourism 2
+		17809,
+		// Anno 1800 - Twitch Drop - HighLife 1
+		17810, 
+		// Anno 1800 - Twitch Drop - HighLife 2
+		17811,
+		//Anno 1800 - Twitch Drop - DLC10 Flag
+		60686,
+		//Anno 1800 - Twitch Drop - DLC10 Billboard
+		60687,
+		//Anno 1800 - Twitch Drop - DLC11 Flag
+		60688,
+		//Anno 1800 - Twitch Drop - DLC11 Billboard
+		60689,
+		//Anno 1800 - Twitch Drop - DLC12 Flag
+		60690,
+		//Anno 1800 - Twitch Drop - DLC12 Billboard
+		60691,
+		//Anno 1800 - Refer-a-Friend
+		60692,
+		// Uplay+ Non Subscription Tracker
+		// 15519,
+		// Uplay - Free Weekend - Feb 2021
+		// 17878,
+		// Epic - Free Weekend - Feb 2021
+		// 17879,
+		// Anno 1800 - Playtest Content
+		// 15923,
+		// Anno 1800 - Anno 2070 - Ship Skin
+		59721,
+		// Anno 1800 - Anno 1701 - Ship Skin
+		59720,
+		// Anno Bundle History Edition Ornament
+		17029,
+		// Anno 1602 History Edition Company Logo
+		17030,
+		// Anno 1503 History Edition Company Logo
+		17031,
+		// Anno 1701 History Edition Company Logo
+		17032,
+		// Anno 1404 History Edition Company Logo
+		17033,
+		// DLC0_Anarchist
+		4556,
+		// Anno 1800 - Bright Harvest
+		1314950,
+		// Anno 1800 - Land of Lions
+		1442810,
+		// Anno 1800 - The Passage
+		1125794,
+		// Anno 1800 - Deluxe Pack
+		1066852,
+		// Anno 1800 - Docklands
+		1530882,
+		// Anno 1800 - Sunken Treasure
+		1125790,
+		// Anno 1800 - Season Pass (Anno 1800™ - Season 1 Pass)
+		1066850,
+		// Anno 1800 - Seeds of Change
+		1933244,
+		// Anno 1800 - Year 3 Pass (Anno 1800™ - Season 3 Pass)
+		1530880,
+		// Anno 1800 - Empire of the Skies Pack (Anno 1800 - Empire of the Skies)
+		2074410,
+		// Anno 1800 - Year 2 Pass (Anno 1800™ - Season 2 Pass)
+		1247710,
+		// Anno 1800 - Year 4 Season Pass (Anno 1800™ - Season 4 Pass)
+		1933240,
+		// Anno 1800 - Uplay Activation Deluxe Preorder
+		916452,
+		// Anno 1800 - Uplay Activation Standard Preorder
+		916451,
+		// Anno 1800 - Deluxe Pack Uplay Activation
+		1066853,
+		// Anno 1800 - Season Pass Uplay Activation
+		1066851,
+		// Anno 1800 - The Passage Uplay Activation
+		1125795,
+		// Anno 1800 - Botanica Uplay Activation
+		1125793,
+		// Anno 1800 - Botanica
+		1125792,
+		// Anno 1800 - Sunken Treasure Uplay Activation
+		1125791,
+		// Anno 1800 – Holyday pack Uplay activation
+		1210041,
+		// Anno 1800 – Holiday pack
+		1210040,
+		// Anno 1800 - Year 2 Pass Uplay Activation
+		1247711,
+		// Anno 1800 - Seat of Power Uplay Activation
+		1247681,
+		// Anno 1800 - Seat of Power
+		1247680,
+		// Anno 1800 - Bright Harvest Uplay Activation
+		1314951,
+		// Anno 1800 - Amusements Pack Uplay Activation
+		1383241,
+		// Anno 1800 - Amusements Pack
+		1383240,
+		// Anno 1800 - Land of Lions Uplay Activation
+		1442811,
+		// Anno 1800 - City Lights Pack Uplay Activation
+		1465651,
+		// Anno 1800 - City Lights Pack
+		1465650,
+		// Anno 1800 - Docklands Uplay Activation
+		1530883,
+		// Anno 1800 - Year 3 Pass Uplay Activation
+		1530881,
+		// Anno 1800 - Vehicle Liveries Uplay Activation
+		1626973,
+		// Anno 1800 - Vehicle Liveries
+		1626972,
+		// Anno 1800 - Tourist Season Uplay Activation
+		1626971,
+		// Anno 1800 - Tourist Season
+		1626970,
+		// Anno 1800 - Pedestrian Zone Pack Ubisoft Activation
+		1704691,
+		// Anno 1800 - Pedestrian Zone Pack
+		1704690,
+		// Anno 1800 - The High Life Ubisoft Activation
+		1704681,
+		// Anno 1800 - The High Life
+		1704680,
+		// Anno 1800 - Vibrant Cities Pack Ubisoft Activation
+		1803743,
+		// Anno 1800 - Vibrant Cities Pack
+		1803742,
+		// Anno 1800 - Ornament Cosmetic Pack Ubisoft Activation
+		1803741,
+		// Anno 1800 - Ornament Cosmetic Pack
+		1803740,
+		// Anno 1800 - Seasonal Decorations Pack Ubisoft Activation
+		1881101,
+		// Anno 1800 - Seasonal Decorations Pack
+		1881100,
+		// Anno 1800 - Seeds of Change Ubisoft Activation
+		1933245,
+		// Anno 1800 - Cosmetic Pack Bundle Ubisoft Activation
+		1933243,
+		// Anno 1800 - Cosmetic Pack Bundle
+		1933242,
+		// Anno 1800 - Year 4 Season Pass Ubisoft Activation
+		1933241,
+		// Anno 1800 - Industrial Zone Pack Ubisoft Activation
+		2055761,
+		// Anno 1800 - Industrial Zone Pack
+		2055760,
+		// Anno 1800 - Empire of the Skies Pack Ubisoft Connect Activation
+		2074411,
+		// Anno 1800 - Old Town Pack Ubisoft Activation
+		2222651,
+		// Anno 1800 - Old Town Pack
+		2222650,
+		// Anno 1800 – New World Rising Ubisoft Activation
+		2222641,
+		// Anno 1800 – New World Rising Pack
+		2222640,
+		// Anno 1800 Ubisoft Activation
+		2231361,
+		// Anno 1800 - Year 4 Gold Edition Ubisoft Activation
+		2235741,
+		// Anno 1800 - Year 4 Complete Edition Ubisoft Activation
+		2235740,
+		// Anno 1800 – Dragon Garden Pack Ubisoft Activation
+		2277981,
+		// Anno 1800 – Dragon Garden Pack (Anno 1800™ Dragon Garden Pack)
+		2277980,
+		// Anno 1800 - Fiesta Pack (Anno 1800™ Fiesta Pack)
+		2400950
+	],
+	"items": [],
+	"blacklist": []
+}
